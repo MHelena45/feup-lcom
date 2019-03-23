@@ -16,23 +16,23 @@ This repository contains all the Labs done in the course Laboratório de Computa
 
 Lab 2 - Timer
 ----------
-> Grade: 84/100
-Grade: 84/100
+> Grade: 84/100 <br>
+Grade: 84/100 <br>
 
 Lab 3 - Keyboard
 ----------
-> Grade: 99/100
- Grade: 82/100
+> Grade: 99/100 <br>
+ Grade: 82/100 <br>
 
 Lab 4 - Mouse
 ----------
-> Grade: 81/100
-Grade: 92/100
+> Grade: 81/100 <br>
+Grade: 92/100 <br>
 
 Lab 5 - Graphics (VBE)
 ----------
-> Grade: 41/100
-Grade: 37/100
+> Grade: 41/100 <br>
+Grade: 37/100 <br>
 
 Project
 ----------
