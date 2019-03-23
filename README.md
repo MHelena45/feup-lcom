@@ -12,29 +12,34 @@ This repository contains all the Labs done in the course Laboratório de Computa
 ## Authors
 
 * **Gonçalo Marantes** - [Marantesss](https://github.com/Marantesss)
-* **Helena Ferreira** - HelenaHF
+* **Helena Ferreira** - [MHelena45](https://github.com/MHelena45)
 
 Lab 2 - Timer
 ----------
-> Grade: ?/100
+> Grade: 84/100
+Grade: 84/100
 
 Lab 3 - Keyboard
 ----------
-> Grade: ?/100
+> Grade: 99/100
+ Grade: 82/100
 
 Lab 4 - Mouse
 ----------
-> Grade: ?/100
+> Grade: 81/100
+Grade: 92/100
 
 Lab 5 - Graphics (VBE)
 ----------
-> Grade: ?/100
+> Grade: 41/100
+Grade: 37/100
 
 Project
 ----------
 
 **Minix Force** <br>
-> Grade: ?/20 <br>
+> Grade: 15.9/20 <br>
+Grade: 14/20 <br>
 
 **Screenshots** <br> <br>
 <img src="https://github.com/Marantesss/feup-lcom/blob/master/proj/doc/Images/Main_Menu.png" width="500"><br>
@@ -51,3 +56,8 @@ Project
 
 <img src="https://github.com/Marantesss/feup-lcom/blob/master/proj/doc/Images/Score_Menu.png" width="500"><br>
 **Fig. 5: Score/Game Over menu**
+
+Final Grade 
+* **Helena Ferreira** - 17.1 <br>
+* **Gonçalo Marantes** - 15.8
+
